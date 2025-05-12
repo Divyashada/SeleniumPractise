@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumPrsctise">
+
+    <test name="BasicTest">
+        <classes>
+            <class name="Browser"/>
+        </classes>
+    </test>
+
+</suite>
+
