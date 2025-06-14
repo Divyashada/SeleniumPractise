@@ -13,7 +13,7 @@ public class BrowserInvoke {
 
         driver.get("https://www.myntra.com/");
 
-        Thread.sleep(3000);
+
 
         driver.manage().window().maximize();
 

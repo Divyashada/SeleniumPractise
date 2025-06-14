@@ -13,6 +13,8 @@ public class Browser {
         System.out.println(title);
         Thread.sleep(5000);
 
+        driver.manage().window().maximize();
+
         driver.close();
 
 
