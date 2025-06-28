@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e727c8-6ea1-422b-ac9c-d66abb7ff4ff" name="Changes" comment="Commit-12/05">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/links.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/naukri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/navigate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/select.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Attribute.java" afterDir="false" />
+    <list default="true" id="a7e727c8-6ea1-422b-ac9c-d66abb7ff4ff" name="Changes" comment="1406_2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/autosugg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cssvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/perform.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BrowserInvoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BrowserInvoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,37 +51,37 @@
       <recent name="C:\Users\User\IdeaProjects\SeleniumPractise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.checkbox">
-    <configuration name="checkbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checkbox" />
+  <component name="RunManager" selected="Application.perform">
+    <configuration name="Cbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cbox" />
       <module name="SeleniumPractise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="display" />
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample" />
       <module name="SeleniumPractise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="keyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="keyboard" />
+    <configuration name="autosugg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="autosugg" />
       <module name="SeleniumPractise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="links" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="links" />
+    <configuration name="coffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coffee" />
       <module name="SeleniumPractise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="login" />
+    <configuration name="perform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perform" />
       <module name="SeleniumPractise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.checkbox" />
-        <item itemvalue="Application.links" />
-        <item itemvalue="Application.keyboard" />
-        <item itemvalue="Application.login" />
-        <item itemvalue="Application.display" />
+        <item itemvalue="Application.perform" />
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Application.coffee" />
+        <item itemvalue="Application.autosugg" />
+        <item itemvalue="Application.Cbox" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1747079855340</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1406_2">
+      <created>1749898557563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749898557563</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +136,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit-12/05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit-12/05" />
+    <MESSAGE value="Commit-14/06" />
+    <MESSAGE value="1406_1" />
+    <MESSAGE value="1406_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1406_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
